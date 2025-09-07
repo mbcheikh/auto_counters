@@ -280,10 +280,8 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 
 ## 📚 Documentation
 
-Full documentation is available in the [docs](docs/) directory:
-- [API Reference](docs/API.md)
-- [Installation Guide](docs/INSTALLATION.md) 
-- [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
+Full documentation is available in the [docs](docs/) directory.
+
 
 ## 💡 Support
 
