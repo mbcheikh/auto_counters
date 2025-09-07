@@ -1,0 +1,7 @@
+# auto_counters.control
+comment = 'Système de numérotation automatique généralisée'
+default_version = '1.0'
+module_pathname = '$libdir/auto_counters'
+relocatable = false
+superuser = false
+schema = public

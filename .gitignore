@@ -1,0 +1,22 @@
+# Fichiers de compilation
+*.o
+*.so
+*.a
+
+# Fichiers temporaires
+*~
+*.tmp
+*.swp
+
+# Répertoires de build
+build/
+dist/
+results/
+
+# Configuration PostgreSQL
+postgresql.conf
+pg_hba.conf
+
+# Logs
+*.log
+.history/*
